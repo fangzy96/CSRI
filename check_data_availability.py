@@ -249,7 +249,7 @@ def main():
         'sleep_night': 'sleep_night_disturb_3hrs.csv',
         'nonsleep_day': 'sleep_day_non_disturb_3hrs.csv',
         'nonsleep_night': 'sleep_night_non_disturb_3hrs.csv',
-        'combined_sleep': 'total_sleep_available.csv',
+        'combined_sleep': 'total_availability.csv',
         'combined_nonsleep': 'combined_sleep_non_disturb_3hrs.csv'
     }  # Output file paths
 
