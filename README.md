@@ -9,7 +9,8 @@ Processed Data: 20250505_complete_incomplete/
 4. check_CSRI.py: generate CSRI_results.csv for plotting CSRI figure (Figure 1 (C)).
 5. plot_CSRI_boxplot.py: plot CSRI figure (Figure 1 (C)).
 6. check_sleep_pattern.py: plot sleep day and night pattern (Supplemental Figure 1).
-7. multivariate_model.py: run the multivariate model and output the (Supplemental Table 2).
-8. generate_table1.py: generate the (Table 1 and Supplemental Table 1).
-9. cal_readmit.py
-10. plot_post_event_ratio.py
+7. plot_CSRI_pca_kmeans.py: cluster and generate figures (Figure 2 (A)(B)(C) and Supplemental Figure 3).        
+8. multivariate_model.py: run the multivariate model and output the (Supplemental Table 2).
+9. generate_table1.py: generate the (Table 1 and Supplemental Table 1).
+10. cal_readmit.py
+11. plot_post_event_ratio.py
