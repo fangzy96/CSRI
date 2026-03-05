@@ -34,7 +34,7 @@ def fisher_test(df, col, value=1):
 
 
 # Load data
-cluster_df = pd.read_csv("All_types_of_surgery_sf36_clustered_results_2_7.csv")
+cluster_df = pd.read_csv("clustering_results/All_types_of_surgery_sf36_clustered_results.csv")
 chart_df = pd.read_csv("Chart_review_20250616_processed.csv", encoding="ISO-8859-1")
 merged_df = cluster_df.merge(chart_df, left_on="uuid", right_on="patient_uuid", how="left")
 
