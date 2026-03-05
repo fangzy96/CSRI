@@ -14,3 +14,4 @@ Processed Data: 20250505_complete_incomplete/
 9. generate_table1.py: generate the (Table 1 and Supplemental Table 1).
 10. cal_readmit.py
 11. plot_post_event_ratio.py
+12. plot_cluster_comparison.py: plot (Figure 3 and Supplemental Figure 4).        
