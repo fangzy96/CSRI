@@ -10,4 +10,4 @@ Processed Data: 20250505_complete_incomplete/
 5. plot_CSRI_boxplot.py: plot CSRI figure (Figure 1 (C)).
 6. check_sleep_pattern.py: plot sleep day and night pattern (Supplemental Figure 1).
 7. multivariate_model.py: run the multivariate model and output the (Supplemental Table 2).
-8. generate_table1.py: generate the (Supplemental Table 1).         
+8. generate_table1.py: generate the (Table 1 and Supplemental Table 1).         
