@@ -384,7 +384,7 @@ def plot_radar_chart_combined_with_delta(data, output_path):
 
     delta_values = [delta_post, delta_90days]
     delta_labels = ["Post-Surgery Delta", "90 Days Delta"]
-    delta_colors = ['#0072B2', '#D55E00']
+    delta_colors = ['#D55E00', '#0072B2']
 
     for idx, delta in enumerate(delta_values):
         values = delta.tolist()
